@@ -1,0 +1,6 @@
+{
+  "name": "Screenshot API SaaS",
+  "description": "A comprehensive SaaS platform and dashboard for capturing, viewing, and managing website screenshots via an API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
